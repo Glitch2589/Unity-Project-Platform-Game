@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Endless Runner Game.unity
+    guid: 1e6828f8db7e050468d444303ebaa7bf
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b2f3b34d0b5e8594580b35ad9657daad
+  - enabled: 1
+    path: Assets/Scenes/Data Game Reset.unity
+    guid: 5864bda5c4dcefc4a9d65a0de0669acd
+  - enabled: 1
+    path: Assets/Scenes/Skin Change.unity
+    guid: 457123f242c26d24db99604f983facf7
+  - enabled: 1
+    path: Assets/Scenes/Endless Runner Part 2.unity
+    guid: bcc6a36bdb723a64a9ad43c38a9e18d4
+  - enabled: 1
+    path: Assets/Scenes/MiniGame1.unity
+    guid: 380514c1676c9cb4f8cf7c03c72cd0a8
+  m_configObjects: {}

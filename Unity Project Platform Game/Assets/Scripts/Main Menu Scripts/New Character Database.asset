@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d3b4877773c93e4f86928d70fc5d944, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Default
+    characterSprite: {fileID: -6447722072507503168, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
+    characterAnimation: {fileID: 7400000, guid: a5ed631fd7a7ce0419bf0186fa95bbb5, type: 2}
+  - characterName: Saurus
+    characterSprite: {fileID: -2311659948842064771, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+    characterAnimation: {fileID: 7400000, guid: b40e9efb6b6099846b0c9ce531557df0, type: 2}
+  - characterName: Red Character
+    characterSprite: {fileID: 6664195757074223314, guid: 6bd1c00f5f6ecc746b6e2277f8a7d292, type: 3}
+    characterAnimation: {fileID: 7400000, guid: 253bc35d9bdcb2145ade84f6531445ef, type: 2}
